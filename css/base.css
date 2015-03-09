@@ -1,0 +1,17 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	text-align: center;
+	background-color: #000000;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
